@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Introduction to Colors",
+        "description": "But can you?",
+        "hint": "",
+        "solution": "debugcritical",
+        "points": 25,
+        "problemtype": 7,
+        "filez": ["../game.zip"],
+        "author": "Arun Dunna"
+    }
+]

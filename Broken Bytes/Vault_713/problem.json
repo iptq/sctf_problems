@@ -5,7 +5,7 @@
         "hint": "Maybe staring at OWASP Top 10 might help.",
         "solution": "flag{HIIVDpLbHbdSIMKMdzuLJZzVh}",
         "points": 120,
-        "problemtype": "Web",
+        "problemtype": 1,
         "filez": [ ],
         "author": "Michael Zhang"
     }
