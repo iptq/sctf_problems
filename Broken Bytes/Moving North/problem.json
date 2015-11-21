@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Moving North",
+        "description": "Seems pretty far... How can I move quicker?",
+        "hint": "",
+        "solution": "mlg-gamer",
+        "points": 45,
+        "problemtype": 7,
+        "filez": ["../game.zip"],
+        "author": "Arun Dunna"
+    }
+]
