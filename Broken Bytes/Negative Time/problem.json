@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Negative Time",
+        "description": "In the game engine's FPS limitation algorithm, the current time is logged. What if the current time were to become negative?",
+        "hint": "",
+        "solution": "flag{26985210}",
+        "points": 110,
+        "problemtype": 7,
+        "filez": ["../game.zip"],
+        "author": "Arun Dunna"
+    }
+]
