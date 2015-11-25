@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Trie Again",
+		"description": "How many words can you find in the given table with the given dictionary?",
+		"hint": "Words are found by going up, down, left, right, or diagonally. A letter can only be used once per word",
+		"solution": "157",
+		"points": (9005),
+		"problemtype": (8),
+		"filez": ["words.txt", "lettergrid.png"],
+		"author": "Kuzai"
+	}
+]
