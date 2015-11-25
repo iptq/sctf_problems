@@ -1,0 +1,12 @@
+[
+	{
+		"title": "SID",
+		"description": "Find the name of the song. Submit your answer as sctf{Name} (case sensitive).",
+		"hint": "Nice tune...",
+		"solution": "sctf{Berggreen I Am}",
+		"points": 15,
+		"problemtype": 3,
+		"filez": ["mystery.sid"],
+		"author": "Samuel Kim"
+	}
+]
