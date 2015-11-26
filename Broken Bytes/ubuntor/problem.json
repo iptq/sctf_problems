@@ -1,0 +1,12 @@
+[
+	{
+		"title": "ubuntor",
+		"description": "Find out about me.",
+		"hint": "It's all about me!",
+		"solution": "sctf{all_about_the_ctf}",
+		"points": 85,
+		"problemtype": 5,
+		"filez": [],
+		"author": "Samuel Kim"
+	}
+]
