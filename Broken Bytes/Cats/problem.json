@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Cats",
+        "description": "I made a writeup for HSF. The problem was called Cats, and I think it was worth 450 points.",
+        "hint": "",
+        "solution": "sctf{bet_y0u_cant_h4x_it!}",
+        "points": 70,
+        "problemtype": 5,
+        "author": "Val Choung"
+    }
+]
