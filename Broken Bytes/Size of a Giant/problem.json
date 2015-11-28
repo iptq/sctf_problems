@@ -4,7 +4,7 @@
         "description": "Grow your character 10x its natural size! That is the power of giants!",
         "hint": "",
         "solution": "flag{76545900}",
-        "points": 70,
+        "points": 110,
         "problemtype": 7,
         "filez": ["../game.zip"],
         "author": "Arun Dunna"

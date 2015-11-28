@@ -4,7 +4,7 @@
 		"description": "Once upon a time, I lived near a former president of the United States. What was my address at this time?",
 		"hint": "## Street Name, City Name, Two-Letter State Name #####",
 		"solution": "25 Maple Avenue, Chappaqua, NY 10514",
-		"points": 70,
+		"points": 65,
 		"problemtype": 5,
 		"filez": [],
 		"author": "Aaron Weiss"

@@ -4,7 +4,7 @@
         "description": "But can you?",
         "hint": "",
         "solution": "debugcritical",
-        "points": 25,
+        "points": 50,
         "problemtype": 7,
         "filez": ["../game.zip"],
         "author": "Arun Dunna"

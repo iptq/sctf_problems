@@ -4,7 +4,7 @@
 		"description": "Find out about me.",
 		"hint": "It's all about me!",
 		"solution": "sctf{all_about_the_ctf}",
-		"points": 85,
+		"points": 55,
 		"problemtype": 5,
 		"filez": [],
 		"author": "Samuel Kim"
