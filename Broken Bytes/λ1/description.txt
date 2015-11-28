@@ -1,1 +1,1 @@
-I've got this program here, but for some reason, it just won't complete. Can you figure out the correct output for me?
+I've got this Haskell program here, but for some reason, it just won't complete. Can you figure out the correct output for me?
