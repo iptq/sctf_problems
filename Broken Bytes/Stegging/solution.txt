@@ -1,0 +1,2 @@
+normal steg problem
+the only twist is that the original and stegged files are reversed. aka "original.jpg" isn't actually the original. other way around
