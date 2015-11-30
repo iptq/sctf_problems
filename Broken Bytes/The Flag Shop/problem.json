@@ -1,0 +1,12 @@
+[
+    {
+        "title": "The Flag Shop",
+        "description": "Placeholder. http://flagshop.sctf.michaelz.xyz",
+        "hint": "Placeholder.",
+        "solution": "flag{1d5d38e5f226e32bd4dfce55}",
+        "points": 50,
+        "problemtype": 1,
+        "filez": [ ],
+        "author": "Michael Zhang"
+    }
+]
