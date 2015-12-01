@@ -1,1 +1,1 @@
-sctf{not the flag}
+sctf{those were some easy points}
