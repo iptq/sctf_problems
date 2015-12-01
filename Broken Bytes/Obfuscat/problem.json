@@ -3,7 +3,7 @@
         "title": "Obfuscat",
         "description": "Ready for some obfus-cat-ion? ;) Have fun: http://obfuscat.problem.sctf.io",
         "hint": "It's a static HTML file. There's no server-side games being played here.",
-        "solution": "flag{SzePt@}",
+        "solution": "flag{S$z$e$P$t$@$s$r$qu}",
         "points": 150,
         "problemtype": 1,
         "filez": [ ],
