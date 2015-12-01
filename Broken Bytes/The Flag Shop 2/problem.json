@@ -1,10 +1,10 @@
 [
     {
         "title": "The Flag Shop: Part 2",
-        "description": "Placeholder. http://flagshop2.sctf.michaelz.xyz",
-        "hint": "Placeholder.",
+        "description": "A bit harder. http://flagshop2.sctf.michaelz.xyz",
+        "hint": "Time is precious. Never waste it.",
         "solution": "flag{4f8703d93bdb7b46615e498d}",
-        "points": 50,
+        "points": 100,
         "problemtype": 1,
         "filez": [ ],
         "author": "Michael Zhang"
