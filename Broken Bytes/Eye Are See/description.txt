@@ -1,0 +1,2 @@
+If I were to connect to <code>#sctfio</code> on <code>chat.freenode.net</code>, I might be able to find some interesting things, like people to talk to, admins to ask for help, and most importantly, the flag for this challenge.
+
