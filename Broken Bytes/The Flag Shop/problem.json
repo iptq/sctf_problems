@@ -1,7 +1,7 @@
 [
     {
         "title": "The Flag Shop",
-        "description": "Go get the flag! http://flagshop.sctf.michaelz.xyz",
+        "description": "Go get the flag! http://flagshop.problem.sctf.io",
         "hint": "How can you prevent it from calling delete?",
         "solution": "flag{1d5d38e5f226e32bd4dfce55}",
         "points": 50,
