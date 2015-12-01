@@ -1,1 +1,3 @@
 Someone encrypted my flag with this program, but I'm not smart enough to figure out what it does. Can you help?
+
+<b>Update:</b> updated executable.
