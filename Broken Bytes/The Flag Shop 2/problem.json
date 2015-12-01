@@ -1,7 +1,7 @@
 [
     {
         "title": "The Flag Shop: Part 2",
-        "description": "A bit harder. http://flagshop2.sctf.michaelz.xyz",
+        "description": "A bit harder. http://flagshop2.problem.sctf.io",
         "hint": "Time is precious. Never waste it.",
         "solution": "flag{4f8703d93bdb7b46615e498d}",
         "points": 100,
