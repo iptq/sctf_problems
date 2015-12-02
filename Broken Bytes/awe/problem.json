@@ -2,7 +2,7 @@
 	{
 		"title": "awe",
 		"description": "Once upon a time, I (Aaron Weiss) lived near a former president of the United States. What was my address at this time?",
-		"hint": "## Street Name, City Name, Two-Letter State Name #####",
+		"hint": "Example Format: 1 Infinite Loop, Cupertino, CA 95014",
 		"solution": "25 Maple Avenue, Chappaqua, NY 10514",
 		"points": 65,
 		"problemtype": 5,
