@@ -4,7 +4,7 @@
         "description": "I'm like 99% sure this is the coin sound.",
         "hint": "Except there weren't that many notes...",
         "solution": "sctf{velatovibratosctf}",
-        "points": 140,
+        "points": 200,
         "problemtype": 3,
         "filez": ["coin.png"],
         "author": "Arun Dunna"
