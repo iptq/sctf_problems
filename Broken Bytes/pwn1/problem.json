@@ -1,0 +1,12 @@
+[
+	{
+		"title": "pwn1",
+		"description": "First pwnable, this should be nice and easy.<code>nc pwn.problem.sctf.io 1337</code>",
+        "hint": "Read up on Buffer Overflows.",
+		"solution": "flag{that_was_so_easy_i_wont_leetify_this_flag}",
+		"points": 40,
+		"problemtype": 4,
+		"filez": ["pwn1"],
+		"author": "Josh Hofing"
+	}
+]
