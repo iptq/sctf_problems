@@ -1,7 +1,7 @@
 [
 	{
 		"title": "pwn2",
-		"description": "This one is a bit more complicated...<p>Flag is in <code>flag.txt</code>",
+		"description": "This one is a bit more complicated...<p><code>nc pwn.problem.sctf.io 1338</code><p>Flag is in <code>flag.txt</code>",
         "hint": "It runs on the same box as pwn1.",
 		"solution": "flag{p0pp1ng_sh311_thr0ugh_1ibc}",
 		"points": 120,
