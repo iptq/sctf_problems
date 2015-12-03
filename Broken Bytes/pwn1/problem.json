@@ -1,7 +1,7 @@
 [
 	{
 		"title": "pwn1",
-		"description": "First pwnable, this should be nice and easy.<p><code>nc pwn.problem.sctf.io 1337</code>.<p>It seems like <code>get_flag</code> doesn't work remotely, though, (but the code is definetly the same). Guess we'll need a more powerful exploit...",
+		"description": "First pwnable, this should be nice and easy.<p><code>nc pwn.problem.sctf.io 1337</code>.",
         "hint": "Read up on Buffer Overflows.",
 		"solution": "flag{that_was_so_easy_i_wont_leetify_this_flag}",
 		"points": 40,
