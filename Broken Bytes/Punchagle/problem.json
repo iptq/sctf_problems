@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Punchagle",
+        "description": "There's a lot of images here, like, <i>a lot</i>. But they have significance.<br><br>Each image contains a punchagle, similar to the punch cards used in old computers. You're given that each shape represents a number, 0-9, and when 1 to 3 shapes in a row are converted to numbers, they make an ASCII character decimal value.<br><br><ul><li>0 = filled circle</li><li>1 = outlined circle</li><li>2 = filled square</li><li>3 = outline square</li><li>4 = filled triangle</li><li>5 = outlined triangle</li><li>6 = filled semicircle UP</li><li>7 = outlined semicircle UP</li><li>8 = filled semicircle DOWN</li><li>9 = outlined semicircle DOWN</li></ul><br><br>The flag is hidden somewhere in those, convert all the images and find it. <code>sctf{FLAG}</code> is the format.",
+        "hint": "Imaging libraries might help.",
+        "solution": "sctf{prettycoolrite}",
+        "points": 100,
+        "problemtype": 8,
+        "filez": ["images.7z"],
+        "author": "Arun Dunna"
+    }
+]

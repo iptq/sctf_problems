@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Punchagle 2",
+        "description": "Same format as Punchagle 1, except this time, some shapes have been omitted.<br><br><code>sctf{FLAG}</code> is the format.",
+        "hint": "Imaging libraries are necessary if you haven't figured that out already.",
+        "solution": "sctf{hellohello}",
+        "points": 145,
+        "problemtype": 8,
+        "filez": ["images.7z"],
+        "author": "Arun Dunna"
+    }
+]

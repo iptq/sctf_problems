@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Punchagle 3",
+        "description": "Same format as Punchagle 1 & 2, except this time, some shapes have been omitted, AND the triangles are randomly rotated.<br><br><code>sctf{FLAG}</code> is the format.",
+        "hint": "Imaging libraries REALLY ARE <b>NECESSARY</b> if you haven't figured that out yet!",
+        "solution": "sctf{stoptheseprobspls}",
+        "points": 250,
+        "problemtype": 8,
+        "filez": ["images.7z"],
+        "author": "Arun Dunna"
+    }
+]
