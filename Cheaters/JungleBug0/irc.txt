@@ -1,0 +1,128 @@
+[16:09] <JungleBug0> i have
+[16:09] <JungleBug0> the first 4
+[16:09] <JungleBug0> flag shop
+[16:09] <JungleBug0> ubuntor
+[16:09] <JungleBug0> moving north
+[16:10] <JungleBug0> trie again
+[16:10] <little_bug> ugh ubuntor
+[16:10] <little_bug> i hate recon
+[16:10] <JungleBug0> lol
+[16:10] <JungleBug0> same
+[16:10] <JungleBug0> i dnd't solve that one
+[16:10] <JungleBug0> *didn't
+[16:10] <little_bug> oh
+[16:10] <JungleBug0> i don't even remember the answer
+[16:10] <little_bug> mm
+[16:10] <JungleBug0> do you have trie again?
+[16:11] <JungleBug0> i can trade thatr
+[16:11] <JungleBug0> *that
+[16:11] <JungleBug0> for a 70+ question
+[16:11] <JungleBug0> or 70+ worth of questions
+[16:12] <little_bug> hmm which question will you trade for it?
+[16:12] <JungleBug0> any
+[16:12] <JungleBug0> as long as they add up to 70+
+[16:12] <little_bug> hmmm
+[16:13] <little_bug> wait
+[16:13] <little_bug> adunna?
+[16:13] <JungleBug0> you have cbc?
+[16:13] <little_bug> i have trie
+[16:13] <little_bug> and... lemme look at cbc
+[16:13] <JungleBug0> oh
+[16:13] <JungleBug0> i dont have cbc
+[16:13] <JungleBug0> i meant trade
+[16:13] <little_bug> do you want trie?
+[16:13] <JungleBug0> i have trie
+[16:13] <JungleBug0> i didnt even solve it legit
+[16:14] <JungleBug0> how were you supposed to solve it
+[16:14] <little_bug> you just trie :P
+[16:14] <little_bug> you got like
+[16:14] <little_bug> 167 right?
+[16:14] <little_bug> or sth like that
+[16:14] <little_bug> idr
+[16:14] <JungleBug0> 157
+[16:14] <JungleBug0> i trialed and errored
+[16:14] <little_bug> ah
+[16:14] <JungleBug0> but for 6 hours
+[16:14] <little_bug> hmm
+[16:14] <JungleBug0> one of my teammates
+[16:14] <JungleBug0> took the list of words
+[16:14] <JungleBug0> and started cutting words off
+[16:14] <little_bug> give me ubuntor and flag shop and i'll give you cbc
+[16:14] <JungleBug0> i felt so bad for him
+[16:15] <JungleBug0> yo no tengo los dos
+[16:15] <JungleBug0> actually
+[16:15] <JungleBug0> yo tengo
+[16:15] <JungleBug0> pero yo no recuerdo las respuestas
+[16:15] <JungleBug0> lo siento
+[16:15] <JungleBug0> yo no puedo dar estos respuestas
+[16:15] <little_bug> .... english pl0x
+[16:15] <little_bug> what do you have then
+[16:16] <JungleBug0> moving north
+[16:16] <JungleBug0> i remember that one
+[16:16] <little_bug> how much is that owrth agin
+[16:16] <JungleBug0> if you don't already have it
+[16:16] <little_bug> i don't have it
+[16:16] <JungleBug0> 75
+[16:16] <JungleBug0> i can trade you
+[16:16] <JungleBug0> for cbc
+[16:16] <JungleBug0> if you have that
+[16:16] <little_bug> okay
+[16:16] <little_bug> you first
+[16:17] <JungleBug0> whoa whoa
+[16:17] <JungleBug0> how i know you are being truthful good sir
+[16:17] <little_bug> how else do you propose to do this then?
+[16:17] <JungleBug0> idk
+[16:17] <JungleBug0> lol
+[16:17] <little_bug> :(
+[16:17] <JungleBug0> i know i will give it to you
+[16:18] <JungleBug0> but only if you give it to me
+[16:18] <JungleBug0> and i can make sure it works
+[16:18] <little_bug> hmmm
+[16:18] <JungleBug0> which is the problem
+[16:18] <little_bug> lemme think
+[16:18] <JungleBug0> i sound very suspicious don't i
+[16:18] <JungleBug0> i'm not taking the risk though
+[16:18] <JungleBug0> if i get cbc off you
+[16:18] <JungleBug0> you WILL
+[16:18] <little_bug> okay
+[16:18] <JungleBug0> get the 75 points
+[16:18] <little_bug> sure
+[16:18] <JungleBug0> but i'm not doing it the other way around
+[16:18] <JungleBug0> alright
+[16:18] <little_bug> reply in 2 seconds though
+[16:19] <little_bug> good?
+[16:19] <JungleBug0> if it works
+[16:19] <little_bug> say yes or no
+[16:19] <JungleBug0> sure
+[16:19] <little_bug> okay
+[16:19] <little_bug> ready?
+[16:20] <JungleBug0> yep
+[16:20] <little_bug> flag{cbc_is_m3ss3d_up_righ7}
+[16:20] <little_bug> yo
+[16:20] <little_bug> 2 seconds
+[16:20] <JungleBug0> didnt work
+[16:20] <JungleBug0> how should i put that in?
+[16:21] <little_bug> idk if it's sctf{} or flag{}
+[16:21] <little_bug> p sure the rest is right
+[16:21] <JungleBug0> still nothing
+[16:22] <JungleBug0> bro
+[16:22] <JungleBug0> i gtg
+[16:22] <JungleBug0> idk
+[16:22] <JungleBug0> it didn't work
+[16:22] <JungleBug0> i straight copy pasted from chat
+[16:22] <JungleBug0> whatever
+[16:22] <little_bug> egh
+[16:22] <little_bug> i just gave you a flag
+[16:22] <little_bug> so
+[16:22] <JungleBug0> welp
+[16:22] <JungleBug0> it didn't work so
+[16:22] <JungleBug0> in that case
+[16:22] <little_bug> you're lying
+[16:22] <JungleBug0> i'll give you a flag too
+[16:23] <little_bug> okay
+[16:23] <JungleBug0> what
+[16:23] <little_bug> ?
+[16:23] <JungleBug0> it seriously didn't work
+[16:23] <JungleBug0> are you sure you don't remember
+[16:23] <JungleBug0> because the one you gave me didn't work
+[16:23] <little_bug> that's what i have on my doc
