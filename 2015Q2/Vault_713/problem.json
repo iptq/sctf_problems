@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Vault 713",
+        "description": "Ringotts Bank has implemented a <a href='http://vault.problem.sctf.io' target='_blank'>new security system</a>! Try to break into vault 713 and get the flag!",
+        "hint": "Maybe staring at OWASP Top 10 might help.",
+        "solution": "flag{HIIVDpLbHbdSIMKMdzuLJZzVh}",
+        "points": 120,
+        "problemtype": 1,
+        "filez": [ ],
+        "author": "Michael Zhang"
+    }
+]

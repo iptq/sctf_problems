@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "EXAMPLE PROBLEM",
+		"description" : "This is the example problem!<br>Denote a line break with br. Everything else is markdown.",
+		"hint" : "Example problem hint! Markdown applies here too.",
+		"solution" : ["sctf{exflag}", "sctf{exflag2}"],
+		"points" : 10,
+		"problemtype" : 3,
+		"filez" : ["examplefile", "helloworld.txt"],
+		"author" : "Arun Dunna"
+	}
+]
