@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Control Panel",
+		"description" : "Take control... of the flag on this [admin control panel](http://cpanel.sctf.michaelz.xyz/).",
+		"hint" : "There are more hints in the comments.",
+		"solution" : [ "sctf{TIL_noSql_cAn_bE_InjeKT3d_t0o}", "TIL_noSql_cAn_bE_InjeKT3d_t0o" ],
+		"points" : 40,
+		"problemtype" : 1,
+		"filez" : [ ],
+		"author" : "Michael Zhang"
+	}
+]
