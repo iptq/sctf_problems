@@ -12,5 +12,5 @@ successfully set `admin` to `true`. If people on IRC asking for help don't
 realize this, or are asking for SQL hints, tell them simply to look at the
 account page for more clues.
 
-The site is reset every 5 minutes, and the database is reset every 15 minutes,
-so if anything goes wrong, just wait it out.
+The site and the database are reset every 15 minutes, so if anything goes wrong,
+just wait it out.
