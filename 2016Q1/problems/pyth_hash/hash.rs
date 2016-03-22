@@ -10,7 +10,7 @@ fn hash(data: &[u8]) -> [u8; 8] {
     
     let r = {
         fn work(data: &[u8]) -> u64 {
-            // I deleted the algorithm! Good luck!
+            // ???
         }
         
         (0..data.len()).fold(0u64, |x, y| x ^ (work(&data[y..]) as u64))
