@@ -1,9 +1,9 @@
 [
 	{
 		"title" : "Pythagoras' hash",
-		"description" : "Someone destroyed part of my hash function. Help me hash `the flag`!\n\n    hash() = 0000000000000000\n    hash(00) = 0000000000000000\n    hash(0000) = 0000000000000000\n    hash(0100) = 0100000000000000\n    hash(0101) = 6a01000000000000\n    hash(\"0\") = 4300000000000000\n    hash(\"00\") = 6644000000000000\n    hash(\"01\") = ca45000000000000\n    hash(\"00000000\") = 494c80e557636244\n    hash(\"0000000000000000\") = 49c4df6d2b2a7430\n    hash(\"don\\'t use this in production!\") = 2fc8b5401ebe090d",
+		"description" : "You have part of the source to a really bad hash function, and an oracle that will hash anything up to 32 bytes. Hash the following string.\n\n    the flag the flag the flag the flag the flag the flag the flag the game\n\n(71 bytes &mdash; sorry, the oracle will not hash it for you)",
 		"hint" : "Sliding window",
-		"solution" : ["sctf{d0d27218a363a192}"],
+		"solution" : ["sctf{85a893e7a21e7658}"],
 		"points" : 50,
 		"problemtype" : 2,
 		"filez" : ["hash.rs"],

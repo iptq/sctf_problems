@@ -36,6 +36,6 @@ A really bad hash function brewed in an hour.
 
 ## The flag
 
-`hash("the flag") = d0d27218a363a192`
+    hash("the flag the flag the flag the flag the flag the flag the flag the game") = 85a893e7a21e7658
 
-Thus the flag is _`sctf{d0d27218a363a192}`_.
+Thus the flag is `sctf{85a893e7a21e7658}`.
