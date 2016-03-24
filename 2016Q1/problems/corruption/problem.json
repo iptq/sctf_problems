@@ -1,6 +1,6 @@
 [
 	{
-		"title" : "Corrupted",
+		"title" : "Corruption",
 		"description" : "Someone corrupted my photo. Fix it for me?",
 		"hint" : "One zeroed",
 		"solution" : ["sctf{ee94cedc3facfd5652964a17848d9dee8ce203c693bd3fb7611fa825a91eb43551151b0a3a07822410a7badba011defc4c4547e212a15ffca7b4f77f567a4c63}"],
