@@ -3,7 +3,7 @@
 		"title" : "Pythagoras' hash",
 		"description" : "You have part of the source to a really bad hash function, and an oracle that will hash anything up to 32 bytes. Hash the following string.\n\n    the flag the flag the flag the flag the flag the flag the flag the game\n\n(71 bytes &mdash; sorry, the oracle will not hash it for you)",
 		"hint" : "Sliding window",
-		"solution" : ["sctf{85a893e7a21e7658}"],
+		"solution" : ["sctf{175f01e4b31a197a25210b85fb1ccbdcab0047404848cc8739630a4fe60f526534a9a895bf09f1993fe542b1b038f8d0fbd1302301534fd22bd1bb128a3e99e6}"],
 		"points" : 50,
 		"problemtype" : 2,
 		"filez" : ["hash.rs"],
