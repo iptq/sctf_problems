@@ -3,7 +3,7 @@
 		"title" : "Corruption",
 		"description" : "Someone corrupted my photo. Fix it for me?",
 		"hint" : "One zeroed",
-		"solution" : ["sctf{ee94cedc3facfd5652964a17848d9dee8ce203c693bd3fb7611fa825a91eb43551151b0a3a07822410a7badba011defc4c4547e212a15ffca7b4f77f567a4c63}"],
+		"solution" : ["12dddd3f91d223fe4fdcd950b066367ec59ad03cd2a1f2448d70898da8b71cfd1a71b0f7596fe8f893dc1c239d324ba1e77ba976dbcb9cb430152e08529ef01e"],
 		"points" : 40,
 		"problemtype" : 3,
 		"filez" : ["corrupted.png"],
