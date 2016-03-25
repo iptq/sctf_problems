@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "JPEG number",
+		"description" : "Calculate the sum of decimal digits of the number represented in big-endian by the raw pixel data of `number.jpg` in BGR byte order.",
+		"hint" : "Patience.",
+		"solution" : ["4bd6cb30f2a311ce36de8d5af8ea52a8c84176a4cb80358b94a401a6cb9914860e9474f56f2f37bf27b1e2e7d523a9fa351e5df608858b4dbcba066b0e79e340"],
+		"points" : 50,
+		"problemtype" : 8,
+		"filez" : ["number.jpg"],
+		"author" : "Tee Hao Wei"
+	}
+]
