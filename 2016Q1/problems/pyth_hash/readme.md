@@ -6,7 +6,7 @@ A really bad hash function brewed in an hour.
 
 The oracle lives at http://problems1.2016q1.sctf.io:17117/. It accepts a base64-encoded input passed via the query string, for up to 32 bytes of input (post-base64-decode).
 
-Players can interface with the oracle using your browser (e.g. http://problems1.2016q1.sctf.io:17117/?dGhlIGZsYWc=), cURL, or anything, really.
+Players can interface with the oracle using their browser (e.g. http://problems1.2016q1.sctf.io:17117/?dGhlIGZsYWc=), cURL, or anything, really.
 
     $ hash() { curl 'http://problems1.2016q1.sctf.io:17117/?'"$(echo -n $1 | base64)"; }
     $ hash 'the flag'
@@ -17,3 +17,8 @@ Players can interface with the oracle using your browser (e.g. http://problems1.
 * "Pythagoras' hash"
 * "Sliding window"
 * The inclusion of the `b2f64` function not used anywhere except `work`
+
+## Possible hints to be given
+
+* Notice how [any length of null bytes](http://problems1.2016q1.sctf.io:17117/?AAAA) results in zeroes.
+* Notice how hashing single bytes results in `floor(byte * sqrt(2))`. (N.B. very strong hint)
