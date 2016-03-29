@@ -10,6 +10,7 @@ Arithmetic expressions (denoted `a`) featuring:
 
 Boolean expressions (denoted `b`) featuring:
 - Boolean constants, written `true` and `false` respectively.
+- Negation, written `!b`.
 - And, written `b && b`.
 - Or, written `b || b`.
 - Less than, written `a < a`.
