@@ -1,0 +1,58 @@
+I've got this program in a language I've made called Imp (short for Imperative). It's a
+straightforward language. It probably amounts to a very simplified version of languages you already
+know. Let me tell you about it. It has all the following.
+
+Arithmetic expressions (denoted `a`) featuring:
+- Numeric constants (unsigned and unbounded), written as you'd expect (`0`, `3`, `42`, `7418`).
+- Identifiers, written as any alphabetical string.
+- Addition, written `a + a`.
+- Multiplication, written `a * a`.
+
+Boolean expressions (denoted `b`) featuring:
+- Boolean constants, written `true` and `false` respectively.
+- And, written `b && b`.
+- Or, written `b || b`.
+- Less than, written `a < a`.
+- Greater than, written `a > a`.
+- Equals, written `a = a`.
+- Less than or equal to, written `a <= a`.
+- Greater than or equal to, written `a >= a`.
+
+Statements (denoted `s`) featuring:
+- Variable assignments, written `id <- a` where id is any alphabetical identifier.
+- Sequencing, written `s; s`.
+- If statements, written `if b then s else s`
+- Skip, written `skip`
+- Panic, written `panic`
+
+In addition, the last line of the program contains a post-condition for the program written `{b}`.
+
+So, here's an example program:
+```
+y <- 4;
+if x < y then skip else panic;
+y <- x * 2
+if y < x then panic else skip;
+z <- x + y
+{z = 3 * x && y = 2 * x}
+```
+
+I want to be able to use my program and ensure that it works, but in order to do so, I need to
+know under what conditions its safe to run it. Can you figure out the most permissive set of
+conditions that will ensure that my program completes with the specific post-condition? The
+condition might be very large though. So, I came up with a clever way to check it!
+
+I want to know: what's the size of the conjunctive normal form of the condition you calculated?
+
+Here's a formal definition for size:
+```
+size(true) = 1
+size(false) = 1
+size(a < a') = 1
+size(a > a') = 1
+size(a = a') = 1
+size(a >= a') = 1
+size(a <= a') = 1
+size(b || b') = 1 + size(b) + size(b')
+size(b && b') = 1 + size(b) + size(b')
+``` 
