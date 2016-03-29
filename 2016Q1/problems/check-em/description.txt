@@ -32,7 +32,7 @@ So, here's an example program:
 ```
 y <- 4;
 if x < y then skip else panic;
-y <- x * 2
+y <- x * 2;
 if y < x then panic else skip;
 z <- x + y
 {z = 3 * x && y = 2 * x}
