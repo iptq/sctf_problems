@@ -1,0 +1,12 @@
+[
+  {
+    "title" : "Lengthy Lingo",
+    "description" : "Can you crack the code? We intercepted this flag but can't seem to figure out how it was encrypted.",
+    "hint" : "The numbers don't seem to follow a specific pattern...",
+    "solution" : ["c970d34767a754b8f7794c21499e55285055e4eac50854c501a9c271daa8ca296f9cb22d0fb3bfea448dfad5e8ea772d41e490a255c49e9d13f637b5c7912aff"],
+    "points" : 35,
+    "problemtype" : 2,
+    "filez" : ["encrypted.dat"],
+    "author" : "Zachary Taylor"
+  }
+]
