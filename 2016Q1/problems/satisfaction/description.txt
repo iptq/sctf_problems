@@ -1,0 +1,30 @@
+I've got another task for you involving my little language, Prop!
+
+It consists of the following expressions (denoted `e`):
+
+- Boolean constants, written `true` and `false`.
+- Boolean variables, written as any alphabetical string.
+- Implies, written `e -> e`.
+- Equivalence, written `e <-> e`.
+- Negation, written `!e`.
+- And, written `e && e`.
+- Or, written `e || e`.
+
+You can also parenthesize any expressions or subexpressions (so, you can write `(a || b) && c`).
+Here's another example program:
+
+```
+(a || b) && c && d && (!d || b) || (b -> c) && (d <-> a)
+```
+
+This time, I've determined that the attached program is satisfiable, but I want to know the actual
+values that make this program satisfiable. Can you find me a satisfying model, please? When you've
+found one, submit a GET request to (server). Any missing keys are considered false.
+Here's an example request:
+
+```
+http://(server)/?a=true&b=true&c=false
+```
+
+This request would treat `a` and `b` as `true` and `c` and the rest of the variables as `false`.
+Thus, it's only necessary to assign the true keys to the value true.
