@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Ed25519",
+		"description" : "Ed25519-sign `the flag` with the same private key and implementation flaw used to sign the messages below. The flag is the base64 representation of the signature.\n\nPublic key: `5bfcb1cd3938f3f6f3092da5f7d7a1bdb1d694a725d0585a99208787554e110d`\n\n* Message: `sctf.io`\n* Signature: `68299a51b6b592e2db83c26ca3594bdd81bdbb9f11c597a1deb823da7c8b9de8e2224855125b1acbeab1468bf4860c1eeb05b6d2375e2214c55bdfe808a6c106`\n\n* Message: `2016 Q1`\n* Signature: `68299a51b6b592e2db83c26ca3594bdd81bdbb9f11c597a1deb823da7c8b9de825ad01a05a0cce69258d41d42ed046956e7d4586eb21ff031bf8ac03243d5e04`",
+		"hint" : "",
+		"solution" : ["fe13e9a58c471dc3d0a6af59c3ba6b6250f68e230570cd102089acb41cf812dcfa615f8862853dd1fb9fed997ea003f28f1567b25318fe46efb8a7b16b0ff7f9"],
+		"points" : 50,
+		"problemtype" : 2,
+		"filez" : [],
+		"author" : "Tee Hao Wei"
+	}
+]
