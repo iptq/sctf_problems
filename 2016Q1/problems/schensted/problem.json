@@ -1,9 +1,9 @@
 [
   {
     "title" : "Schensted",
-    "description" : "I found this sequence of numbers... can you give me the length of the longest increasing subsequence? Submit without `sctf{}`",
+    "description" : "I found this sequence of numbers... can you give me the length of the longest increasing subsequence? Submit in the format `sctf{answer}`",
     "hint" : "Elegance is key",
-    "solution" : ["95f6ba70e1ac3f05f3402b2e63bd745dd53e48a6ade7055af2d1abc20f5eb9f4bdede56972666ad11e3b22ec2fcf1e063660c86c52c7fbd871d8473e5f44ea41"],
+    "solution" : ["550b5a4a980b4f47eb904424aff161e42e9389a80ebda17caa1babbb7bd563e57765fa5d64e2c2bde3f00538becd07ac7ea4db5060dd90599b64d90528e8d164"],
     "points" : 110,
     "problemtype" : 8,
     "filez" : ["schensted.dat"],
