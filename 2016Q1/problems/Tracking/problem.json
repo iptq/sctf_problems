@@ -1,0 +1,12 @@
+[
+  {
+    "title" : "Tracking",
+    "description" : "[Global Positioning Systems](https://en.wikipedia.org/wiki/Global_Positioning_System) (GPS) use satellites to [trilaterate](https://en.wikipedia.org/wiki/Trilateration) a device's position on Planet Earth. You will need to use a _very_ similar method to solve this problem. Download the description and input file to get started!",
+    "hint" : "Submit your flag in the format: `sctf{x, y, z}`",
+    "solution" : ["fbc268426e4979c5d4c0ade50b12195898d4b8780faf50b639a329b2fa5898538403a7084f6bb58f91abe819133ab520dde4a08a75ab2d8b71a01d970a569c45"],
+    "points" : 85,
+    "problemtype" : 8,
+    "filez" : ["tracking.in", "description.txt"],
+    "author" : "Zachary Taylor"
+  }
+]
