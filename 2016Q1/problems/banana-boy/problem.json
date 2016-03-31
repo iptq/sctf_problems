@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Banana Boy",
+		"description" : "Carter loves bananas, but I heard a rumor that he's hiding something!<br><br>Can you find it?",
+		"hint" : "Is it really just an image?",
+		"solution" : ["07b14d910e60081f301d5827d8dcf1e544d73879bc9ae0a09d1ac4234007ef068e777e00eb2252b415c5cb516582f27efec8af653558ee2b3d432c14e28ac559"],
+		"points" : 20,
+		"problemtype" : 3,
+		"filez" : ["carter.jpg"],
+		"author" : "Zachary Taylor"
+	}
+]
