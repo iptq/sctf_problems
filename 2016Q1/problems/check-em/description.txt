@@ -44,7 +44,8 @@ conditions that will ensure that my program completes with the specific post-con
 condition might be very large though. So, I came up with a clever way to check it!
 
 I want to know: what's the size of the conjunctive normal form (the only additional simplification
-here should be to turn !false into true and !true into false) of the condition you calculated?
+here should be to turn `!false` into `true` and `!true` into `false`) of the condition you
+calculated?
 
 Here's a formal definition for size:
 ```
