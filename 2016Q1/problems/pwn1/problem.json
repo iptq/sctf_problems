@@ -4,7 +4,7 @@
 		"description" : "I'll convert a first person statement to a second person statement. I even wrote it in C++ to be super-safe about my strings!<br><code>nc problems2.2016q1.sctf.io 1337</code>",
 		"hint" : "",
 		"solution" : ["f03c2a545de36b05bd047dab022866c5f2da37d90c8b950fcce227a9b660d8066a8c95a2da877d2847e47e6d8dad5e8b61583662f52b972e7ef39ee4b3a41465"],
-		"points" : 100,
+		"points" : 70,
 		"problemtype" : 4,
 		"filez" : ["pwn1"],
 		"author" : "Josh Hofing (Hyper)"
