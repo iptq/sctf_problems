@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Musical Penguins",
+        "description" : "This file is a complete mystery to me, I've never seen notes like these!",
+        "hint" : "Morgan Freeman and Kevin Spacey would have fun with this one.",
+        "solution" : ["4cfb5e6cfcf966adca8084502fb675c5734323e8501cf5a12e78004378b15cb41529fcb1a5bf8b26e9aef277e81517d1e090a340bcd6b6af24974011f85c2426"],
+        "points" : 45,
+        "problemtype" : 3,
+        "filez" : ["mystery.tg"],
+        "author" : "Zachary Taylor"
+    }
+]
