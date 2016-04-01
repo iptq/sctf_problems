@@ -1,7 +1,7 @@
 [
 	{
 		"title" : "Pythagoras' hash",
-		"description" : "You have part of the source to a really bad hash function, and an oracle that will hash anything up to 32 bytes. Hash the following string.\n    the flag the flag the flag the flag the flag the flag the flag the game\n_(71 bytes &mdash; sorry, the oracle will not hash it for you)_\nYou may access the oracle at http://problems1.2016q1.sctf.io:17117/. The oracle accepts a base64-encoded input passed via the query string. You can interface with the oracle using your browser (e.g. http://problems1.2016q1.sctf.io:17117/?dGhlIGZsYWc=), cURL, or anything you want, really.\n    $ hash() { curl 'http://problems1.2016q1.sctf.io:17117/?'\"$(echo -n $1 | base64)\"; }\n    $ hash 'the flag'\n    d0d27218a363a192",
+		"description" : "You have part of the source to a really bad hash function, and an oracle that will hash anything up to 32 bytes. Hash the following string.\n\n    the flag the flag the flag the flag the flag the flag the flag the game\n\n_(71 bytes &mdash; sorry, the oracle will not hash it for you)_\n\nYou may access the oracle at http://problems1.2016q1.sctf.io:17117/. The oracle accepts a base64-encoded input passed via the query string. You can interface with the oracle using your browser (e.g. http://problems1.2016q1.sctf.io:17117/?dGhlIGZsYWc=), cURL, or anything you want, really.\n\n    $ hash() { curl 'http://problems1.2016q1.sctf.io:17117/?'\"$(echo -n $1 | base64)\"; }\n    $ hash 'the flag'\n    d0d27218a363a192",
 		"hint" : "Sliding window",
 		"solution" : ["1ae21ad352d79faaf39647750757adb3a72c184740288505fa3532d069d1fd01805c32b4940d94d78542f46f0f1fcec29321078084987a43707d5a8ebf7c042f"],
 		"points" : 100,
