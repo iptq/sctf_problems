@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Rain or Shine",
+        "description" : "I've been working so hard on problems that I didn't even notice it was raining outside. I decided to take a short break and record some ambient sound for a game I've been working on, and just for fun I stuck a flag somewhere in there too! Can you find it for me?",
+        "hint" : "If you're stuck, start [here](https://en.wikipedia.org/wiki/Steganography).",
+        "solution" : ["dd049f524fafebf62dbc3925c3908f25d1da3beedb3b85655d3a2b584ac93f6097550e914b0f2a59b115d244a61a855f1ccceb40c8473c59f1171fd8ff05af29"],
+        "points" : 35,
+        "problemtype" : 3,
+        "filez" : ["rain.wav"],
+        "author" : "Zachary Taylor"
+    }
+]
