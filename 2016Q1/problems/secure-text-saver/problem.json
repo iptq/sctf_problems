@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Secure Text Saver",
+        "description" : "Will you test out my new program for me? It saves important info and keeps it away from prying eyes!",
+        "hint" : "I've already made an account, so don't take my username or steal my texts!",
+        "solution" : ["ac1d80b6a6fadfa7c2c97c2bd90b91092ea1c6bcb5cad34b0c04a6f7c7b27f4c8f1696c027237e811fa83d028bafea3b5fc98350313606082969b0205584ffcd"],
+        "points" : 60,
+        "problemtype" : 6,
+        "filez" : ["Secure_Text_Saver.jar"],
+        "author" : "Zachary Taylor"
+    }
+]
