@@ -1,7 +1,7 @@
 [
 	{
 		"title" : "pwn2",
-		"description" : "Echo servers are easy stuff, right?",
+		"description" : "Echo servers are easy stuff, right?<br><code>nc problems2.2016q1.sctf.io 1338</code>",
 		"hint" : "You're gonna need your utility belt, full of gadgets, to solve this one.",
 		"solution" : ["eab92e2868dc1414249b9465f3c6bb46a04f02fae3e92944fc270ce85b565f0a37efb4155c28de77db9e880352af3cd075fd157b9106df98ea70fa7ea22358fd"],
 		"points" : 120,
