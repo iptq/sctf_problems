@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Vertinet",
+		"description" : "Welcome to **Vertinet**.<br><br>This problem follows the same specifications as the previous Verticode problem, except that you have to solve many of them by developing a client to communicate with the server available at `problems1.2016q1.sctf.io:50000`. Good luck.",
+		"hint" : "Try looking up some imaging libraries as well as some networking stuff.",
+		"solution" : ["f452d709fddad3bd936776682cc11127373e4c1ca80c51be1a59ae79d6f2d08669e51152dac5bc2b28cd96c18ad7782ddb0f0b68c7f7aacd2edb131a8f93b205"],
+		"points" : 140,
+		"problemtype" : 3,
+		"filez" : [],
+		"author" : "Arun Dunna"
+	}
+]
