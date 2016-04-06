@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Osu",
+		"description" : "I tried to modify the Osu skin. I might've messed up on the 1337 skin. Sad day.",
+		"hint" : "Holy. That is one bloody huge file.",
+		"solution" : ["SHA512HASH(sctf{I_always_wondered_if_thumbs_did_anything})"],
+		"points" : 10,
+		"problemtype" : 3,
+		"filez" : ["VarsosEmblem_1337.zip"],
+		"author" : "V"
+	}
+]
