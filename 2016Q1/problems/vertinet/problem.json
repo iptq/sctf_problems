@@ -5,7 +5,7 @@
 		"hint" : "Try looking up some imaging libraries as well as some networking stuff.",
 		"solution" : ["f452d709fddad3bd936776682cc11127373e4c1ca80c51be1a59ae79d6f2d08669e51152dac5bc2b28cd96c18ad7782ddb0f0b68c7f7aacd2edb131a8f93b205"],
 		"points" : 140,
-		"problemtype" : 3,
+		"problemtype" : 2,
 		"filez" : [],
 		"author" : "Arun Dunna"
 	}

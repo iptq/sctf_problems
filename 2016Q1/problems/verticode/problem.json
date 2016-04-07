@@ -5,7 +5,7 @@
 		"hint" : "Try looking up some imaging libraries.",
 		"solution" : ["2daf3b3818d0ccb51134f7875fe3fd2221657151de15c5ca39a1902fbe81104e40e3fb4f6d27bbfd85b7445c4566153de1388dffac10608b7102fa8988b89fe7"],
 		"points" : 90,
-		"problemtype" : 3,
+		"problemtype" : 2,
 		"filez" : ["A-Code.png", "B-Code.png", "code1.png"],
 		"author" : "Arun Dunna"
 	}
