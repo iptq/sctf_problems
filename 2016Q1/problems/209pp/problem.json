@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "osu! replay",
+		"description" : "I got a 209pp play! But unfortunately, my replay file got corrupted. Help me fix my replay! [site](http://osr.sctf.michaelz.xyz)",
+		"hint" : "It might be useful to find some information about *.osr files.",
+		"solution" : [ "ac6144f2d035e14e0ec600a219c9c70a1960b5813289e56d0f96e0a8ce0e5463d94499a74a87da1bd8acc55647310a6bfdc2b437a7983d73693779a481fb03cc", "23a80c47fcd7508c3a24e358345c3e1de687435474488d257016bc9d7adb91afdbb41e5a2d950a1a4cd7614a2490b1e4fbee897c67153ca9a23b2a4bbebc1cd3" ],
+		"points" : 70,
+		"problemtype" : 3,
+		"filez" : [ "challenge.osr" ],
+		"author" : "Michael Zhang"
+	}
+]
