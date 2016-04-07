@@ -2,9 +2,9 @@
 	{
 		"title" : "ScrambleCrypt",
 		"description" : "Try my little [puzzle](http://scramblecrypt.sctf.michaelz.xyz/)!.",
-		"hint" : "I love using Mersenne Twister.",
-		"solution" : [ "b51d4c30eb7fecb2e5720c2db2ede47ec59825e101260599cd2e8e6e306d2257dffc305059fca53a6660340759ae05b1a2080453aad8b539d09bc913b981f928", "9732f43d9d1b511f694f6acfd34e4bba7c6e156c70ef8632e85eca0a9fe6dda0ff7efd5ae504b481fde102cf4b9437da74af9a9d4c0ff49106872f1176e56f84" ],
-		"points" : 120,
+		"hint" : "Sure, it's random, but it's [deterministic](https://en.wikipedia.org/wiki/Deterministic_algorithm) too.",
+		"solution" : [ "81ae8d35b6a7a8a270833bcc799966f2b8ce754f4faeb7388269c4fe980fe2c14f231adfc8498db4d6c88508b80f9028fe4a5b30c43dcb16a299fd9c498ecf4e", "76d20fd7368a82119d35ceb3a5bb2a8c756bf1470dac2f0931dceca62250d55c571c467be1a8106b1f77327790dd448730d259d128bfc9ef2138293522ff380f" ],
+		"points" : 90,
 		"problemtype" : 1,
 		"filez" : [ ],
 		"author" : "Michael Zhang"
