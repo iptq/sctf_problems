@@ -1,0 +1,12 @@
+[
+    {
+        "title" : "Failed Compression",
+        "description" : "I was trying to compress some files, but I think I messed it up?",
+        "hint" : "I know I had a flag in there somewhere...",
+        "solution" : ["b27b90cc4af150968016bada4c5051a94049e9da3081ad71aa7498b67e3ca5d817d8146844d22a91a7db5d4e61c24fddfda376c77f6be476ca469c84d6b26793"],
+        "points" : 80,
+        "problemtype" : 3,
+        "filez" : ["compressed.zip"],
+        "author" : "Zachary Taylor"
+    }
+]
