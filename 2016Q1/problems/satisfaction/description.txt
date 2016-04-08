@@ -19,7 +19,7 @@ Here's another example program:
 
 This time, I've determined that the attached program is satisfiable, but I want to know the actual
 values that make this program satisfiable. Can you find me a satisfying model, please? When you've
-found one, submit a GET request to our server[http://problems3.2016q1.sctf.io:11420/]. Any missing
+found one, submit a GET request to our [server](http://problems3.2016q1.sctf.io:11420/). Any missing
 keys are considered false.
 
 Here's an example request:
