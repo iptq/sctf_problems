@@ -59,4 +59,6 @@ size(a <= a') = 1
 size(!b) = 1 + size(b)
 size(b || b') = 1 + size(b) + size(b')
 size(b && b') = 1 + size(b) + size(b')
-``` 
+```
+
+The flag format is `sctf{answer}`. 
