@@ -20,10 +20,11 @@ My language is all well and good, but I'm *way* too busy to implement it. I just
 quickly if this program I wrote is valid. Can you figure out the type of the attached program for
 me? That'll be an easy way to check! We write types like this:
 
-- numbers have the type 'num'
-- Functions have the type 'T1 -> T2' where T1 and T2 are any valid type.
-- Top is a type that matches any type, written '⊤'. The Unicode value of ⊤ is U+22A4.
+- numbers have the type `num`
+- Functions have the type `T1 -> T2` where T1 and T2 are any valid type.
+- Top is a type that matches any type, written `⊤`. The Unicode value of ⊤ is U+22A4.
 - Parentheses are welcome around any type or subtype.
+- Function arrows are right-associative. That is, `num -> num -> num` is equivalent to `num -> (num -> num)`.
 
 So, here's some example types:
 ```
