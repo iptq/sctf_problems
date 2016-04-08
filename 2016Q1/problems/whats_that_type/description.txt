@@ -30,3 +30,6 @@ So, here's some example types:
 Num -> ((Num -> (Num -> Num)) -> Num)
 ⊤ -> ⊤ -> Num
 ```
+
+When you've figured out the type of my program, just submit it to my
+[test server](http://problems3.2016q1.sctf.io:11422). If you figure it out, I'll give you the flag.
