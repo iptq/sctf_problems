@@ -30,3 +30,5 @@ size(!e) = 1 + size(e)
 size(e && e') = 1 + size(e) + size(e')
 size(e || e') = 1 + size(e) + size(e')
 ```
+
+The flag format is `sctf{answer}`.

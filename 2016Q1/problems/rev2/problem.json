@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "rev2",
+		"description" : "Little bit harder?<br><br>The answer will not be in the typical `sctf{flag}` format, so when you do get it, you must put it into the format by doing `sctf{flag_you_found}`",
+		"hint" : "",
+		"solution" : ["6ef4606bd597c9f23c132debc7d2414c662efe806f64feda930aeef81600052850a28ae1ab7e1ad54e15af1b9f311f06df137b420d1f6c02b1846c3ead1bbb0f"],
+		"points" : 45,
+		"problemtype" : 6,
+		"filez" : ["rev2"],
+		"author" : "Arun Dunna"
+	}
+]
