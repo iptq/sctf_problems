@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "rev1",
+		"description" : "Let's start out with an easy, typical reversing problem.<br><br>The answer will not be in the typical `sctf{flag}` format, so when you do get it, you must put it into the format by doing `sctf{flag_you_found}`",
+		"hint" : "",
+		"solution" : ["f2ba4902328a1dd0f1b2aea2309dfc90052d59ea62e80703d4be2c7c55159906788f27f2cd6d2dd9fbb8104546dde52b934691c30e06b54ea1d17c8124c2bff9"],
+		"points" : 20,
+		"problemtype" : 6,
+		"filez" : ["rev1"],
+		"author" : "Arun Dunna"
+	}
+]

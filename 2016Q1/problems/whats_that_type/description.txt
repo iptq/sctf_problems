@@ -1,0 +1,36 @@
+I've got this little program here that I've written in a language I've theoretically designed
+called L^3 (pronounced L-cubed, stands for "Little Lambda Language"). It's a pretty simple
+language. It's missing a lot of the features you're probably accustomed to, but that's okay. It has
+only the following:
+
+- numeric constants (unsigned and unbounded), written as you'd expect (`0`, `3`, `42`, `7418`).
+- Identifiers, written either <code>&#945;</code> or <code>&#946;</code> (yes, there are only two possible identifiers!).
+- Functions, written <code>&#955;id. body</code> where id is any valid identifier and body is any valid expression.
+- Function application, written `f x` where f is a function and x is any valid expression.
+- Addition, written "a + b" where a and b are any valid expression that evaluates to a number.
+- Parentheses are welcome around any expression.
+
+So, here's an example program:
+<code>(&#955;&#945;. &#955;&#946;. &#945; + &#946;) 4 5</code>
+
+You may find it useful to know that the Unicode value of &#955; is U+03BB, the Unicode value of &#945; is
+U+03B1, and the Unicode value of &#946; is U+03B2.
+
+My language is all well and good, but I'm *way* too busy to implement it. I just want to know
+quickly if this program I wrote is valid. Can you figure out the type of the attached program for
+me? That'll be an easy way to check! We write types like this:
+
+- numbers have the type `num`
+- Functions have the type `T1 -> T2` where T1 and T2 are any valid type.
+- Top is a type that matches any type, written <code>&#8868;</code>. The Unicode value of &#8868; is U+22A4.
+- Parentheses are welcome around any type or subtype.
+- Function arrows are right-associative. That is, `num -> num -> num` is equivalent to `num -> (num -> num)`.
+
+So, here's some example types:
+<pre>
+num -> ((num -> (num -> num)) -> num)
+&#8868; -> &#8868; -> num
+</pre>
+
+When you've figured out the type of my program, just submit it to my
+[test server](http://problems3.2016q1.sctf.io:11422). If you figure it out, I'll give you the flag.

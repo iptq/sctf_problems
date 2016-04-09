@@ -4,7 +4,7 @@
 		"description" : "One of my favorite pastimes is solving my [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube). In fact, I've fiddled with it so much that I noticed a pattern: If you repeat the same algorithm on the cube, it will eventually return to its original state.<br><br>Can you give me the average number of permutations each algorithm in `perms.dat` takes to return the cube to solved? Round your answer to 2 decimal places and submit without `sctf{}`.<br><br>Good Luck!<br><br>Note: *To be eligible for prizes, you must send your team name and the code you used to solve this problem to adunna@sctf.io*",
 		"hint" : "This one is pretty straightforward. Start [here](http://ruwix.com/the-rubiks-cube/notation/).",
 		"solution" : ["86dc6b08597b5daa7f6712905dd45e093aff423effce25896c766b1d16b3f8778a569334fbfe92a52c7ef3515911b9def1070a253eba33a2c5e7da6ccb94f2cc"],
-		"points" : 200,
+		"points" : 170,
 		"problemtype" : 8,
 		"filez" : ["perms.dat"],
 		"author" : "Zachary Taylor"
